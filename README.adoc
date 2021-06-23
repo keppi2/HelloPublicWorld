@@ -1,0 +1,7 @@
+# Task
+
+* run `./gradlew test` (e.g. git/mingw bash) to verify gradle setup works
+** build may take some time (to download gradle wrapper) and then succeed
+* you could also import project in IntelliJ and execute tests there
+** This would need an installed Java JDK: https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
+** Run `HelloSpec`: groovy\de\conti\helloworld\HelloSpec.groovy
